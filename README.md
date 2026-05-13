@@ -1,6 +1,6 @@
 # beatsforproducers.com
 
-Deployed on GitHub Pages at https://sy3c4ll.github.io/beatsforproducers, if I set everything up properly of course.
+Deployed on GitHub Pages at https://beatsforproducers.frii.site, if I set everything up properly of course.
 
 Prototype for internal project, heavily WIP.
 
